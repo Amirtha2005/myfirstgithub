@@ -11,4 +11,9 @@ HOBBIES:
 2.)watching anime
 3.)story writing
 4.)playing games
+5.)learning japanese
 
+TECHNICAL SKILLS
+1.) studying B.E. CSE in skcet
+2.)learning c++ , CSS , HTML, Javascript 
+3.) will start c# soon
